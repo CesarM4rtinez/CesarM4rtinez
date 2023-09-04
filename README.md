@@ -9,12 +9,15 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
+
 <br>
-• 🌱 Actualmente estoy aprendiendo Administración de Bases de Datos y otros lenguajes de programación.
+
+- 🌱 Actualmente estoy aprendiendo Administración de Bases de Datos y otros lenguajes de programación.
 
 - 📫 Cómo comunicarse conmigo **dbaservices.martinezcesar@gmail.com**
 
 - ⚡ Dato curioso: - La comida y la música🎵 son las razones para vivir.
+
 
 <br>
 
