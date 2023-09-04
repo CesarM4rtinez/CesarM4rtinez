@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy César Martínez</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas y Computación de la Universidad Dr. Andrés Bello de El Salvador🌟.</h3>
+<h3 align="center">Soy estudiante de Ingeniería en Sistemas y Computación de la Universidad Dr. Andrés Bello de El Salvador🌟.</h3>
 
 
 <img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/assets/119742694/762b657f-42df-47a3-a029-58376081ec41" alt="ovi-pw" />
