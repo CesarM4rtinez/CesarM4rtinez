@@ -10,7 +10,7 @@
 
 <br>
 <br>
-- 🌱 Actualmente estoy aprendiendo Administración de Bases de Datos y otros lenguajes de programación.
+• 🌱 Actualmente estoy aprendiendo Administración de Bases de Datos y otros lenguajes de programación.
 
 - 📫 Cómo comunicarse conmigo **dbaservices.martinezcesar@gmail.com**
 
