@@ -14,7 +14,7 @@
 
 - 📫 Cómo comunicarse conmigo **dbaservices.martinezcesar@gmail.com**
 
-- ⚡ Dato curioso: - La comida y la música🎵 son las razones para vivir.
+- ⚡ Dato curioso: La comida y la música🎵 son las razones para vivir.
 
 
 <br>
