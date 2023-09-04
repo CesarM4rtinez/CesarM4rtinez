@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy César Martínez</h1>
-<h3 align="center">Soy estudiante de Ingeniería en Sistemas y Computación de la Universidad Dr. Andrés Bello de El Salvador</h3>
+<h3 align="center">Soy estudiante de Ingeniería en Sistemas y Computación en la Universidad Dr. Andrés Bello de El Salvador</h3>
 
 
 <img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/assets/119742694/762b657f-42df-47a3-a029-58376081ec41" alt="ovi-pw" />
@@ -33,6 +33,9 @@
    <a href="https://twitter.com/@OwnerOvi" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="adampithewan" height="30" width="40" /></a>
+  <a href="https://youtube.com/@CesarMartinezDBAServices?si=tK6Y8D253r6BCliA" target="blank"> <img align="center"
+     src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/yt%20icon.png?raw=true"
+     alt="cesarm4rtinez" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -63,6 +66,8 @@
       <img src="https://framerusercontent.com/images/8Nu3MW03CpqJ8zqwYnWcqCk8EA.png" width="50" height="35" /> 
  <a target="_blank" rel="noreferrer">
 
+<img
+src="" alt="" width="" height=""/></a> <a href="https://lordicon.com/" target="" rel=""> <a target="" rel="">
 <br>
    
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
