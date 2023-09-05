@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy César Martínez</h1> </>
+<h1 align="center">Hola 👋, Soy César Martínez</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas y Computación en "Universidad Dr. Andrés Bello" de El Salvador</h3>
 
 
