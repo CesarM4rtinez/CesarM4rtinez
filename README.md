@@ -73,4 +73,4 @@ src="" alt="" width="" height=""/></a> <a href="https://lordicon.com/" target=""
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[César Martínez](https://github.com/CesarM4rtinez)
+<!-- [César Martínez](https://github.com/CesarM4rtinez)
