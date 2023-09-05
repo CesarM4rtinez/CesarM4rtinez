@@ -42,9 +42,11 @@
      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/yt%20icon.png?raw=true"
      alt="cesarm4rtinez" height="30" width="40" /></a> 
   <!-- Discord -->
-  <a href="https://discord.gg/h4WcyBKX" target="blank"> <img align="center"
+  <a href="https://discord.gg/h4WcyBKX" target="blank"> <img align="left"
      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Discord-Logo.png?raw=true"
      alt="cesarm4rtinez" height="30" width="55" /></a> 
+  <br>
+  <br>
   <!-- Twitch -->
   <a href="https://www.twitch.tv/ovi_dev"> <img align="center"
      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Twitch%20logo.png?raw=true"
