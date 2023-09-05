@@ -63,7 +63,7 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /> </a> <a href="https://oracle.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://framerusercontent.com/images/8Nu3MW03CpqJ8zqwYnWcqCk8EA.png" width="50" height="35" /> 
+      <img src="https://framerusercontent.com/images/8Nu3MW03CpqJ8zqwYnWcqCk8EA.png" width="60" height="35" /> 
  <a target="_blank" rel="noreferrer">
 
 <img
