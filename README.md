@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy César Martínez</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas y Computación en "Universidad Dr. Andrés Bello" de El Salvador 🌟</h3>
+<h4 align="center">Estudiante de Ingeniería en Sistemas y Computación en "Universidad Dr. Andrés Bello" de El Salvador 🌟</h4>
 
 
 <img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/assets/119742694/762b657f-42df-47a3-a029-58376081ec41" alt="ovi-pw" />
@@ -118,6 +118,7 @@
    <img
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/JS.png?raw=true"
       width="40" height="40"/></a>
+<br>
 <!-- AWS -->
      <a href="https://aws.amazon.com/es/what-is-aws/" target="blank" rel="noreferrer">
    <img 
