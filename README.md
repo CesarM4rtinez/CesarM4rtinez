@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy César Martínez</h1>
-<h4 align="center">Estudiante de Ingeniería en Sistemas y Computación en "Universidad Dr. Andrés Bello" de El Salvador 🌟</h4>
+<h1 align="center">Hello 👋, I'm César Martínez</h1>
+<h4 align="center">I am a Systems and Computing Engineering student at "Universidad Dr. Andrés Bello" in El Salvador 🌟</h4>
 
 
 <img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/assets/119742694/762b657f-42df-47a3-a029-58376081ec41" alt="ovi-pw" />
@@ -10,11 +10,11 @@
 
 <br>
 
-- 🌱 Actualmente estoy aprendiendo Administración de Bases de Datos y otros lenguajes de programación.
+- 🌱 I am currently learning Database Administration and other programming languages.
 
-- 📫 Cómo comunicarse conmigo **dbaservices.martinezcesar@gmail.com**
+- 📫 How to contact me **dbaservices.martinezcesar@gmail.com**
 
-- ⚡ Dato curioso: La comida y la música🎵 son las razones para vivir.
+- ⚡ Fun fact: Food and music 🎵 are the reasons to live.
 
 
 <br>
