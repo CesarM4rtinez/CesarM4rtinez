@@ -19,7 +19,7 @@
 
 <br>
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/césar-martínez-b8a53326a/" target="blank"><img align="center"
@@ -48,7 +48,7 @@
 
 
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+<h3 align="left">Languages and tools:</h3>
 
 <p align="left"> 
 <!-- C# -->
