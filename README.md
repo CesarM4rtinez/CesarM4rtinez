@@ -95,15 +95,26 @@
    <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       width="50" height="50"/></a> 
-<!-- Python -->
+<!-- Python 
    <a href="https://www.python.org"  target="blank" rel="noreferrer"> 
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
       width="40" height="40"/></a> 
+      -->
 <!-- Oracle -->
 <a href="https://oracle.com/" target="blank" rel="noreferrer"> 
       <img src="https://framerusercontent.com/images/8Nu3MW03CpqJ8zqwYnWcqCk8EA.png" 
       width="40" height="30"/></a> 
+ <!-- AWS -->
+     <a href="https://aws.amazon.com/es/what-is-aws/" target="blank" rel="noreferrer">
+   <img 
+      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/AWS.png?raw=true"
+      width="40" height="40"/></a>
+<!-- VMware -->
+     <a href="https://www.vmware.com/" target="blank" rel="noreferrer">
+   <img 
+      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/VMware.png?raw=true"
+      width="40" height="40"/></a>
  <!-- HTML 
      <a href="https://html.com/" target="blank" rel="noreferrer">
    <img
@@ -123,16 +134,6 @@
       width="40" height="40"/></a>
       -->
 <br>
-<!-- AWS -->
-     <a href="https://aws.amazon.com/es/what-is-aws/" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/AWS.png?raw=true"
-      width="40" height="40"/></a>
-<!-- VMware -->
-     <a href="https://www.vmware.com/" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/VMware.png?raw=true"
-      width="40" height="40"/></a>
 <!-- Arch Linux -->
      <a href="https://archlinux.org/" target="blank" rel="noreferrer">
    <img 
@@ -147,7 +148,7 @@
      <a href="https://azure.microsoft.com/es-es/products/active-directory/" target="blank" rel="noreferrer">
    <img 
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Active Directory.png?raw=true"
-      width="90" height="40"/></a>
+      width="90" height="50"/></a>
 
 
       
