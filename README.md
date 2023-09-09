@@ -71,11 +71,12 @@
    <img
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PostgreSQL.png?raw=true"
       width="40" height="40"/></a> 
-<!-- React -->
+<!-- React 
   <a href="https://reactjs.org/" target="blank" rel="noreferrer">
       <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       width="40" height="40"/></a>
+  -->
 <!-- Azure SQL -->
      <a href="https://azure.microsoft.com/es-es/products/azure-sql/database/" target="blank" rel="noreferrer">
    <img 
@@ -103,21 +104,24 @@
 <a href="https://oracle.com/" target="blank" rel="noreferrer"> 
       <img src="https://framerusercontent.com/images/8Nu3MW03CpqJ8zqwYnWcqCk8EA.png" 
       width="40" height="30"/></a> 
- <!-- HTML -->
+ <!-- HTML 
      <a href="https://html.com/" target="blank" rel="noreferrer">
    <img
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/HTML.png?raw=true"
       width="40" height="40"/></a> 
- <!-- CSS -->
+      -->
+   <!-- CSS 
      <a href="https://lenguajecss.com/css/introduccion/que-es-css/" target="blank" rel="noreferrer">
    <img
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/CSS.png?raw=true"
       width="40" height="40"/></a>
- <!-- JavaScript -->
+      -->
+ <!-- JavaScript 
      <a href="https://javascript.com/" target="blank" rel="noreferrer">
    <img
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/JS.png?raw=true"
       width="40" height="40"/></a>
+      -->
 <br>
 <!-- AWS -->
      <a href="https://aws.amazon.com/es/what-is-aws/" target="blank" rel="noreferrer">
