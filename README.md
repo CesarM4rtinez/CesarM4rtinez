@@ -82,7 +82,11 @@
    <img 
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true"
       width="40" height="40"/></a>
-
+<!-- PowerBI -->
+     <a href="https://powerbi.microsoft.com/es-es/" target="blank" rel="noreferrer">
+   <img
+      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PowerBI.png?raw=true"
+      width="40" height="40"/></a>
 
   <br>
 <!-- .NET -->
@@ -127,11 +131,6 @@
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/CSS.png?raw=true"
       width="40" height="40"/></a>
       -->
- <!-- PowerBI -->
-     <a href="https://powerbi.microsoft.com/es-es/" target="blank" rel="noreferrer">
-   <img
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PowerBI.png?raw=true"
-      width="40" height="40"/></a>
       
 <br>
 <!-- Arch Linux -->
