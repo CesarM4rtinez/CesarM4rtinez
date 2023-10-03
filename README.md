@@ -45,80 +45,76 @@
 
 <br>
 
-
-
-
 <h3 align="left">Languages and tools:</h3>
 
 <p align="left"> 
-<!-- C# -->
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="blank" rel="noreferrer"> 
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-      width="40" height="40"/></a> 
 <!-- SQL Server -->
   <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="blank" rel="noreferrer">
   <img 
      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL%20Server.png?raw=true"
-     width="50" height="40"/></a>  
-<!-- Java -->
-  <a href="https://java.com" target="blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-      width="40" height="40"/></a> 
+     width="50" height="40"/></a> 
+  <!-- MySQL -->
+    <a href="https://mysql.com" target="blank" rel="noreferrer">
+   <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      width="50" height="40"/></a> 
+  <!-- Oracle -->
+<a href="https://oracle.com/" target="blank" rel="noreferrer"> 
+      <img src="https://fbk.it/images/Oracle.png" 
+      width="40" height="30"/></a> 
 <!-- PostgreSQL -->
      <a href="https://postgresql.com" target="blank" rel="noreferrer">
    <img
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PostgreSQL.png?raw=true"
       width="40" height="40"/></a> 
-<!-- React 
-  <a href="https://reactjs.org/" target="blank" rel="noreferrer">
-      <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      width="40" height="40"/></a>
-  -->
+  
+<br>
 <!-- Azure SQL -->
      <a href="https://azure.microsoft.com/es-es/products/azure-sql/database/" target="blank" rel="noreferrer">
    <img 
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true"
-      width="40" height="40"/></a>
-
-  <br>
-<!-- .NET -->
-     <a href="https://dotnet.microsoft.com/es-es/" target="blank" rel="noreferrer">
-   <img
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/NET.png?raw=true"
-      width="40" height="40"/></a>
-<!-- MySQL -->
-    <a href="https://mysql.com" target="blank" rel="noreferrer">
-   <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      width="50" height="50"/></a> 
-<!-- Python 
-   <a href="https://www.python.org"  target="blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-      width="40" height="40"/></a> 
-      -->
-<!-- Oracle -->
-<a href="https://oracle.com/" target="blank" rel="noreferrer"> 
-      <img src="https://framerusercontent.com/images/8Nu3MW03CpqJ8zqwYnWcqCk8EA.png" 
-      width="45" height="30"/></a> 
- <!-- AWS -->
-     <a href="https://aws.amazon.com/es/what-is-aws/" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/AWS.png?raw=true"
       width="40" height="40"/></a>
 <!-- PowerBI -->
      <a href="https://powerbi.microsoft.com/es-es/" target="blank" rel="noreferrer">
    <img
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PowerBI.png?raw=true"
       width="40" height="40"/></a>
-<!-- VMware -->
-     <a href="https://www.vmware.com/" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/VMware.png?raw=true"
+<!-- .NET -->
+     <a href="https://dotnet.microsoft.com/es-es/" target="blank" rel="noreferrer">
+   <img
+      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/NET.png?raw=true"
       width="40" height="40"/></a>
+<!-- C# -->
+  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="blank" rel="noreferrer"> 
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+      width="40" height="40"/></a>  
+<!-- Java -->
+  <a href="https://java.com" target="blank" rel="noreferrer">
+  <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
+      width="40" height="40"/></a> 
+<!-- Cloud Computing -->
+<a href="https://cloud.google.com/?utm_source=bing&utm_medium=cpc&utm_campaign=latam-LATAM-all-es-dr-BKWS-all-all-trial-p-dr-1011454-LUAC0016621&utm_content=text-ad-none-any-DEV_c-CRE_-ADGP_Hybrid+%7C+BKWS+-+MIX+%7C+Txt+~+GCP_General-KWID_43700067286646324-kwd-77996961802680:loc-57&utm_term=KW_Google%20Cloud-ST_Google+Cloud&gclid=8221c083fdf91fd01edca5988e7fc06c&gclsrc=3p.ds" target="blank" rel="noreferrer">
+<img  
+     src="https://th.bing.com/th/id/R.07ca2f32240ddfc91b7aefb8c8ad3e54?rik=hcfKbUIaseHoAw&pid=ImgRaw&r=0"
+     width="40" height="40"/></a>
+
+<!-- React 
+  <a href="https://reactjs.org/" target="blank" rel="noreferrer">
+      <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      width="40" height="40"/></a>
+  -->
+
+
+<!-- Python 
+   <a href="https://www.python.org"  target="blank" rel="noreferrer"> 
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+      width="40" height="40"/></a> 
+      -->
+  
  <!-- HTML 
      <a href="https://html.com/" target="blank" rel="noreferrer">
    <img
@@ -148,7 +144,11 @@
    <img 
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Active Directory.png?raw=true"
       width="90" height="50"/></a>
-
+<!-- VMware -->
+     <a href="https://www.vmware.com/" target="blank" rel="noreferrer">
+<img 
+      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/VMware.png?raw=true"
+      width="40" height="40"/></a>
 
       
 <br>
