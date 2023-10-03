@@ -89,11 +89,12 @@
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
       width="40" height="40"/></a>  
-<!-- Java -->
+<!-- Java 
   <a href="https://java.com" target="blank" rel="noreferrer">
   <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
       width="40" height="40"/></a> 
+-->
 <!-- Cloud Computing -->
 <a href="https://cloud.google.com/?utm_source=bing&utm_medium=cpc&utm_campaign=latam-LATAM-all-es-dr-BKWS-all-all-trial-p-dr-1011454-LUAC0016621&utm_content=text-ad-none-any-DEV_c-CRE_-ADGP_Hybrid+%7C+BKWS+-+MIX+%7C+Txt+~+GCP_General-KWID_43700067286646324-kwd-77996961802680:loc-57&utm_term=KW_Google%20Cloud-ST_Google+Cloud&gclid=8221c083fdf91fd01edca5988e7fc06c&gclsrc=3p.ds" target="blank" rel="noreferrer">
 <img  
