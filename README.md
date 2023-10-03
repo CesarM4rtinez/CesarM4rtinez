@@ -82,11 +82,6 @@
    <img 
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true"
       width="40" height="40"/></a>
-<!-- PowerBI -->
-     <a href="https://powerbi.microsoft.com/es-es/" target="blank" rel="noreferrer">
-   <img
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PowerBI.png?raw=true"
-      width="40" height="40"/></a>
 
   <br>
 <!-- .NET -->
@@ -113,6 +108,11 @@
      <a href="https://aws.amazon.com/es/what-is-aws/" target="blank" rel="noreferrer">
    <img 
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/AWS.png?raw=true"
+      width="40" height="40"/></a>
+<!-- PowerBI -->
+     <a href="https://powerbi.microsoft.com/es-es/" target="blank" rel="noreferrer">
+   <img
+      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PowerBI.png?raw=true"
       width="40" height="40"/></a>
 <!-- VMware -->
      <a href="https://www.vmware.com/" target="blank" rel="noreferrer">
