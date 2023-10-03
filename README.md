@@ -103,7 +103,7 @@
 <!-- Oracle -->
 <a href="https://oracle.com/" target="blank" rel="noreferrer"> 
       <img src="https://framerusercontent.com/images/8Nu3MW03CpqJ8zqwYnWcqCk8EA.png" 
-      width="40" height="30"/></a> 
+      width="45" height="30"/></a> 
  <!-- AWS -->
      <a href="https://aws.amazon.com/es/what-is-aws/" target="blank" rel="noreferrer">
    <img 
