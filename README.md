@@ -127,12 +127,12 @@
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/CSS.png?raw=true"
       width="40" height="40"/></a>
       -->
- <!-- JavaScript 
-     <a href="https://javascript.com/" target="blank" rel="noreferrer">
+ <!-- PowerBI -->
+     <a href="https://powerbi.microsoft.com/es-es/" target="blank" rel="noreferrer">
    <img
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/JS.png?raw=true"
+      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PowerBI.png?raw=true"
       width="40" height="40"/></a>
-      -->
+      
 <br>
 <!-- Arch Linux -->
      <a href="https://archlinux.org/" target="blank" rel="noreferrer">
