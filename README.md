@@ -1,4 +1,5 @@
 <h1 align="center">Hello 👋, I'm César Martínez</h1>
+<h3 align="center">Developer | Data Engineer | Data Analyst | PowerBI</h3>
 <h4 align="center">I am a Systems and Computing Engineering student at "Universidad Dr. Andrés Bello" in El Salvador 🌟</h4>
 
 
@@ -169,3 +170,13 @@
       src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Illustrator.png?raw=true"
       width="40" height="40"/></a>
 <!-- [César Martínez](https://github.com/CesarM4rtinez)
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
+ </p>
+<p align="center">
+<img src="https://img.shields.io/badge/Age-26-blue" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
