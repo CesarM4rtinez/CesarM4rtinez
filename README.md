@@ -197,5 +197,4 @@
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> </code> 
-  <code> <img height="50" src="https://www.abd.es/wp-content/uploads/2018/11/windows-server-logo.png"> </code>
   <code> <img height="50" src="https://shiftacademy.id/wp-content/uploads/2021/02/Scrum-Logo.png"> </code>
