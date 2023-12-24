@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm César Martínez</h1>
-<h3 align="center">🧑🏻‍💻Backend Developer | Data Engineer | Data Analyst | PowerBI | DBA🧑🏻‍💻</h3>
+<h3 align="center">🧑🏻‍💻Backend Developer | Data Engineer | Analista DBA | DBA🧑🏻‍💻</h3>
 <h4 align="center">I am a Systems and Computing Engineering student at "Universidad Dr. Andrés Bello" in El Salvador 🌟</h4>
 
 
