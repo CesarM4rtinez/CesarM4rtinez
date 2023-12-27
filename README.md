@@ -11,7 +11,7 @@
 
 <br>
 
-- 🌱 Actualmente soy Administración de Bases de Datos.
+- 🌱 Actualmente soy Administrador de Bases de Datos.
 
 - 📫 Como contactarme **dbaservices.martinezcesar@gmail.com**
 
