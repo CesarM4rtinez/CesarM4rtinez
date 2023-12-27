@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy César Martínez</h1>
 <h3 align="center">🧑🏻‍💻Backend Developer | Data Engineer | Analista DBA | DBA🧑🏻‍💻</h3>
-<h4 align="center">Soy estudiante de Ingeniería en Sistemas y Computación en la "Universidad Dr. Andrés Bello" en El Salvador 🌟</h4>
+<h4 align="center">Soy estudiante de Ingeniería en Sistemas y Computación en la "Universidad Dr. Andrés Bello" de El Salvador 🌟</h4>
 
 
 <img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/assets/119742694/762b657f-42df-47a3-a029-58376081ec41" alt="ovi-pw" />
