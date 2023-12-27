@@ -46,7 +46,7 @@
 
 <br>
 
-<h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 
 <p align="left"> 
 <!-- SQL Server -->
@@ -182,7 +182,7 @@
 
 <br>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Mis herramientas de trabajo...***
 <p align="left">
 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
