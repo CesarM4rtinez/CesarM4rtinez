@@ -1,6 +1,6 @@
-<h1 align="center">Hello 👋, I'm César Martínez</h1>
+<h1 align="center">Hola 👋, soy César Martínez</h1>
 <h3 align="center">🧑🏻‍💻Backend Developer | Data Engineer | Analista DBA | DBA🧑🏻‍💻</h3>
-<h4 align="center">I am a Systems and Computing Engineering student at "Universidad Dr. Andrés Bello" in El Salvador 🌟</h4>
+<h4 align="center">Soy estudiante de Ingeniería en Sistemas y Computación en la "Universidad Dr. Andrés Bello" en El Salvador 🌟</h4>
 
 
 <img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/assets/119742694/762b657f-42df-47a3-a029-58376081ec41" alt="ovi-pw" />
@@ -11,16 +11,16 @@
 
 <br>
 
-- 🌱 I am currently learning Database Administration and other programming languages.
+- 🌱 Actualmente soy Administración de Bases de Datos.
 
-- 📫 How to contact me **dbaservices.martinezcesar@gmail.com**
+- 📫 Como contactarme **dbaservices.martinezcesar@gmail.com**
 
-- ⚡ Fun fact: Food and music 🎵 are the reasons to live.
+- ⚡ Dato curioso: la comida y la música 🎵 son las razones para vivir.
 
 
 <br>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conectate conmigo:</h3>
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/césar-martínez-b8a53326a/" target="blank"><img align="center"
@@ -46,7 +46,7 @@
 
 <br>
 
-<h3 align="left">Languages and tools:</h3>
+<h3 align="left">Idiomas y herramientas:</h3>
 
 <p align="left"> 
 <!-- SQL Server -->
