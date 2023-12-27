@@ -175,9 +175,9 @@
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Age-20-blue" />
-  <img src="https://img.shields.io/badge/Focus-Data Engineering-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
+<img src="https://img.shields.io/badge/Edad-20-blue" />
+  <img src="https://img.shields.io/badge/Enfoque-Data Engineering-brightgreen" />
+  <img src="https://img.shields.io/badge/Idiomas-English%20%26%20Spanish-brightgreen" />
 </p>
 
 <br>
