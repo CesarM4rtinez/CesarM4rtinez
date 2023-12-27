@@ -30,10 +30,6 @@
   <a href="https://www.facebook.com/profile.php?id=61553790389737" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="adam pithen wala" height="30" width="40" /></a>
-  <!-- Instagram -->
-  <a href="https://instagram.com/maynaztrvp" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
   <!-- Youtube -->
   <a href="https://youtube.com/@CesarMartinezDBAServices?si=tK6Y8D253r6BCliA" target="blank"> <img align="center"
      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/yt%20icon.png?raw=true"
