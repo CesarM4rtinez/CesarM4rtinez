@@ -15,7 +15,7 @@
 
 - 📫 Como contactarme **dbaservices.martinezcesar@gmail.com**
 
-- ⚡ Dato curioso: la comida y la música 🎵 son las razones para vivir.
+- ⚡ Dato curioso: He sido desarrollador Backend, además de ser Administrador.
 
 
 <br>
