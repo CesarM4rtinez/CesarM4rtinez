@@ -164,15 +164,15 @@
 <!-- [César Martínez](https://github.com/CesarM4rtinez) -->
 
 <!-- Etiqueta de vistas en el Perfil -->
-
 <p align="left"> 
 <img src="https://visitcount.itsvg.in/api?id=CesarM4rtinez&label=Profile%20Views&color=10&icon=5&pretty=false" alt="watching_count" />
  </p>
- 
+
+<!-- Etiquetas de datos en el Perfil -->
 <p align="center">
-<img src="https://img.shields.io/badge/Edad-20-blue" />
-  <img src="https://img.shields.io/badge/Enfoque-Data Engineering-brightgreen" />
-  <img src="https://img.shields.io/badge/Idiomas-English%20%26%20Spanish-brightgreen" />
+<img src="https://img.shields.io/badge/Edad-20-purple" />
+  <img src="https://img.shields.io/badge/Enfoque-Data Engineering-purple" />
+  <img src="https://img.shields.io/badge/Idiomas-English%20%26%20Spanish-purple" />
 </p>
 
 <br>
