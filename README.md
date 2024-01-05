@@ -163,9 +163,14 @@
       width="40" height="40"/></a>
 <!-- [César Martínez](https://github.com/CesarM4rtinez) -->
 
+<!-- Etiqueta de vistas en el Perfil 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
+ -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=CesarM4rtinez&label=Profile%20Views&pretty=false" />
+</a>
 <p align="center">
 <img src="https://img.shields.io/badge/Edad-20-blue" />
   <img src="https://img.shields.io/badge/Enfoque-Data Engineering-brightgreen" />
