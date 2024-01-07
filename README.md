@@ -15,7 +15,7 @@
 
 - 📫 Como contactarme **dbaservices.martinezcesar@gmail.com**
 
-- ⚡ Dato curioso: He sido Futbolista desde mis 5 años hasta mis 15 años, incursionando en otros deportes como Natación en mis ultimos 2 años en el Fútbol.
+- ⚡ Dato curioso: He sido Futbolista desde mis 5 años hasta mis 15 años, incursionando en otros deportes como la Natación, y entrenamiento físico en el gym dúrante mis ultimos 2 años en el Fútbol.
 
 
 <br>
