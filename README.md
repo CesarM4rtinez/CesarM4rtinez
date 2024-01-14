@@ -168,6 +168,10 @@
   <img src="https://komarev.com/ghpvc/?username=CesarM4rtinez&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="watching_count" />
 </p>
 
+<p align="center">
+<img src="https://api.netlify.com/api/v1/badges/f97f1d98-1f39-4bbb-9905-f932f48ff897/deploy-status" />
+</p>
+
 <!-- Etiquetas de datos en el Perfil -->
 <p align="center">
 <img src="https://img.shields.io/badge/Edad-20-purple" />
