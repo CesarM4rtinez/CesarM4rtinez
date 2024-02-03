@@ -13,6 +13,7 @@
 
 <br>
 
+***Acerca de mí:***
 
 - 🌱 Actualmente soy Administrador de Bases de Datos.
 
@@ -79,12 +80,12 @@
    <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Active Directory.png?raw=true" height="50"/> </code>
 <!-- VMware -->
    <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/VMware.png?raw=true" height="50"/> </code>
-   
+
 <br>
 <!-- Photoshop -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Photoshop.png?raw=true" height="40"/> </code>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Photoshop.png?raw=true" height="50"/> </code>
 <!-- Premiere -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Premiere.png?raw=true" height="40"/> </code>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Premiere.png?raw=true" height="50"/> </code>
 
 
 <!-- Etiqueta de vistas en el Perfil -->
