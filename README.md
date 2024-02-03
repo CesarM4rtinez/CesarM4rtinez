@@ -23,7 +23,7 @@
 
 <br>
 
-<h3 align="left">Conectate conmigo:</h3>
+***Conectate conmigo:***
 <p align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/césar-martínez-b8a53326a/" target="blank"><img align="center"
@@ -46,133 +46,45 @@
 <br>
 <br>
 
----
+#
 
-<h3 align="left">Lenguajes y herramientas:</h3>
+***Lenguajes y herramientas:***
 
-<p align="left"> 
+<p align="center"> 
 <!-- SQL Server -->
-  <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="blank" rel="noreferrer">
-  <img 
-     src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL%20Server.png?raw=true"
-     width="50" height="40"/></a> 
-  <!-- MySQL -->
-    <a href="https://mysql.com" target="blank" rel="noreferrer">
-   <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      width="50" height="40"/></a> 
-  <!-- Oracle -->
-<a href="https://oracle.com/" target="blank" rel="noreferrer"> 
-      <img src="https://fbk.it/images/Oracle.png" 
-      width="40" height="30"/></a> 
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL%20Server.png?raw=true" height="60"/> </code>
+<!-- MySQL -->
+   <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60"/> </code>
+ <!-- Oracle -->
+   <code> <img src="https://fbk.it/images/Oracle.png" height="50"/> </code>
 <!-- PostgreSQL -->
-     <a href="https://postgresql.com" target="blank" rel="noreferrer">
-   <img
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PostgreSQL.png?raw=true"
-      width="40" height="40"/></a> 
-  
-<br>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PostgreSQL.png?raw=true" height="50"/> </code> 
 <!-- Azure SQL -->
-     <a href="https://azure.microsoft.com/es-es/products/azure-sql/database/" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true"
-      width="40" height="40"/></a>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true" height="50"/> </code>
 <!-- PowerBI -->
-     <a href="https://powerbi.microsoft.com/es-es/" target="blank" rel="noreferrer">
-   <img
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PowerBI.png?raw=true"
-      width="40" height="40"/></a>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PowerBI.png?raw=true" height="50"/> </code>
 <!-- Cloud Computing -->
-<a href="https://cloud.google.com/" target="blank" rel="noreferrer">
-<img  
-     src="https://th.bing.com/th/id/R.07ca2f32240ddfc91b7aefb8c8ad3e54?rik=hcfKbUIaseHoAw&pid=ImgRaw&r=0"
-     width="40" height="40"/></a>
+   <code> <img src="https://th.bing.com/th/id/R.07ca2f32240ddfc91b7aefb8c8ad3e54?rik=hcfKbUIaseHoAw&pid=ImgRaw&r=0" height="50"/> </code>
 <!-- .NET -->
-     <a href="https://dotnet.microsoft.com/es-es/" target="blank" rel="noreferrer">
-   <img
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/NET.png?raw=true"
-      width="40" height="40"/></a>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/NET.png?raw=true" height="50"/> </code>
 <!-- C# -->
-  <a href="https://dotnet.microsoft.com/es-es/languages/csharp" target="blank" rel="noreferrer"> 
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
-      width="40" height="40"/></a>  
-<!-- Java 
-  <a href="https://java.com" target="blank" rel="noreferrer">
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" 
-      width="40" height="40"/></a> 
--->
-
-<!-- React 
-  <a href="https://reactjs.org/" target="blank" rel="noreferrer">
-      <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      width="40" height="40"/></a>
-  -->
-
-
-<!-- Python 
-   <a href="https://www.python.org"  target="blank" rel="noreferrer"> 
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
-      width="40" height="40"/></a> 
-      -->
-  
- <!-- HTML 
-     <a href="https://html.com/" target="blank" rel="noreferrer">
-   <img
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/HTML.png?raw=true"
-      width="40" height="40"/></a> 
-      -->
-   <!-- CSS 
-     <a href="https://lenguajecss.com/css/introduccion/que-es-css/" target="blank" rel="noreferrer">
-   <img
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/CSS.png?raw=true"
-      width="40" height="40"/></a>
-      -->
+   <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/> </code> 
       
 <br>
 <!-- Arch Linux -->
-     <a href="https://archlinux.org/" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Arch Linux.png?raw=true"
-      width="90" height="50"/></a>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Arch Linux.png?raw=true" height="50"/> </code>
 <!-- Windows Server -->
-     <a href="https://www.microsoft.com/es-es/windows-server" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Windows Server.png?raw=true"
-      width="90" height="50"/></a>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Windows Server.png?raw=true" height="50"/> </code>
 <!-- Azure Active Directory -->
-     <a href="https://azure.microsoft.com/es-es/products/active-directory/" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Active Directory.png?raw=true"
-      width="90" height="50"/></a>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Active Directory.png?raw=true" height="50"/> </code>
 <!-- VMware -->
-     <a href="https://www.vmware.com/" target="blank" rel="noreferrer">
-<img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/VMware.png?raw=true"
-      width="40" height="40"/></a>
-
-      
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/VMware.png?raw=true" height="50"/> </code>
+   
 <br>
 <!-- Photoshop -->
-     <a href="https://www.adobe.com/products/photoshop.html?promoid=RBS7NL7F&mv=other" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Photoshop.png?raw=true"
-      width="40" height="40"/></a>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Photoshop.png?raw=true" height="50"/> </code>
 <!-- Premiere -->
-     <a href="https://www.adobe.com/products/premiere.html?promoid=RBS7NL7F&mv=other" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Premiere.png?raw=true"
-      width="40" height="40"/></a>
-<!-- Illustrator -->
-     <a href="https://www.adobe.com/products/illustrator.html?promoid=RBS7NL7F&mv=other" target="blank" rel="noreferrer">
-   <img 
-      src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Illustrator.png?raw=true"
-      width="40" height="40"/></a>
-<!-- [César Martínez](https://github.com/CesarM4rtinez) -->
-
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Premiere.png?raw=true" height="50"/> </code>
 
 
 <!-- Etiqueta de vistas en el Perfil -->
