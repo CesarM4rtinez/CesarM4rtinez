@@ -7,9 +7,12 @@
 
 <br>
 
+#
+ 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
+
 
 - 🌱 Actualmente soy Administrador de Bases de Datos.
 
@@ -37,6 +40,13 @@
 </p>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+---
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 
@@ -179,6 +189,8 @@
 </p>
 
 <br>
+
+---
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Mis herramientas de trabajo...***
 
