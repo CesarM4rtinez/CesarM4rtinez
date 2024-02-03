@@ -75,7 +75,7 @@
       
 <br>
 <!-- Arch Linux -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Arch Linux.png?raw=true" height="50"/> </code>
+   <code> <img src="https://1.bp.blogspot.com/--zKweiG_jiY/WbOAizosJvI/AAAAAAAAAso/k19jWkG6lHAr9APyTvglAW-T4-XtPvh1gCLcBGAs/s1600/ubuntu-logo.png" height="30"/> </code>
 <!-- Windows Server -->
    <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Windows Server.png?raw=true" height="50"/> </code>
 <!-- Azure Active Directory -->
