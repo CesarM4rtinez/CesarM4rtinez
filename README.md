@@ -19,7 +19,7 @@
 
 - 📫 Como contactarme **dbaservices.martinezcesar@gmail.com**
 
-- ⚡ Dato curioso: He sido Futbolista desde mis 5 hasta mis 15 años, incursionando en otros deportes como la Natación, y entrenamiento físico en el gym dúrante mis ultimos 2 años en el Fútbol, manteniendome en un entorno constante de disciplina.
+- ⚡ Soy desarrollador SQL en Oracle y SQL Server. Y me especializo en la Administración de SQL Server.
 
 
 <br>
