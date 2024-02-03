@@ -82,9 +82,9 @@
    
 <br>
 <!-- Photoshop -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Photoshop.png?raw=true" height="50"/> </code>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Photoshop.png?raw=true" height="40"/> </code>
 <!-- Premiere -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Premiere.png?raw=true" height="50"/> </code>
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Premiere.png?raw=true" height="40"/> </code>
 
 
 <!-- Etiqueta de vistas en el Perfil -->
