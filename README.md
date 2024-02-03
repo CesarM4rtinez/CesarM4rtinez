@@ -19,7 +19,7 @@
 
 - 📫 Como contactarme **dbaservices.martinezcesar@gmail.com**
 
-- ⚡ Soy desarrollador SQL en Oracle y SQL Server. Y me especializo en la Administración de SQL Server.
+- ⚡ Soy desarrollador SQL en Oracle y SQL Server. Me especializo en la Administración de SQL Server.
 
 
 <br>
