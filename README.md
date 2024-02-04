@@ -92,7 +92,7 @@
 
 <!-- Etiqueta de vistas en el Perfil -->
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=CesarM4rtinez&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=CesarM4rtinez&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="watching_count" />
 </p>
 
 
