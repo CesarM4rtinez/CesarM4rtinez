@@ -23,22 +23,12 @@
 
 
 <br>
+<br>
+<br>
 
-***Conectate conmigo:***
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/césar-martínez-b8a53326a/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/profile.php?id=61553790389737" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>
-  <!-- Youtube -->
-  <a href="https://youtube.com/@CesarMartinezDBAServices?si=tK6Y8D253r6BCliA" target="blank"> <img align="center"
-     src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/yt%20icon.png?raw=true"
-     alt="cesarm4rtinez" height="30" width="40" /></a>  
-</p>
+<br>
+<br>
+<br>
 
 <br>
 <br>
@@ -54,28 +44,22 @@
 ***Lenguajes y herramientas:***
 
 <p align="center"> 
-<!-- SQL Server -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL%20Server.png?raw=true" height="60"/> </code>
-<!-- MySQL -->
-   <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60"/> </code>
- <!-- Oracle -->
-   <code> <img src="https://fbk.it/images/Oracle.png" height="50"/> </code>
-<!-- PostgreSQL -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PostgreSQL.png?raw=true" height="50"/> </code> 
-<!-- Azure SQL -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true" height="50"/> </code>
-<!-- PowerBI -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/PowerBI.png?raw=true" height="50"/> </code>
-<!-- Cloud Computing -->
-   <code> <img src="https://th.bing.com/th/id/R.07ca2f32240ddfc91b7aefb8c8ad3e54?rik=hcfKbUIaseHoAw&pid=ImgRaw&r=0" height="50"/> </code>
+<!-- C# -->
+   <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/> </code>
 <!-- .NET -->
    <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/NET.png?raw=true" height="50"/> </code>
-<!-- C# -->
-   <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/> </code> 
+<!-- SQL Server -->
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL%20Server.png?raw=true" height="60"/> </code>
+<!-- Azure SQL -->
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true" height="50"/> </code>
+<!-- AWS -->
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/AWS-Cloud.png?raw=true" height="50"/> </code>
+<!-- Oracle -->
+   <code> <img src="https://fbk.it/images/Oracle.png" height="50"/> </code>
       
 <br>
 <!-- Arch Linux -->
-   <code> <img src="https://1.bp.blogspot.com/--zKweiG_jiY/WbOAizosJvI/AAAAAAAAAso/k19jWkG6lHAr9APyTvglAW-T4-XtPvh1gCLcBGAs/s1600/ubuntu-logo.png" height="30"/> </code>
+   <code> <img height="50" src="https://th.bing.com/th/id/R.16768d04c3ad32788862171223903717?rik=CTDDKirgo4yZ7w&pid=ImgRaw&r=0"> </code>
 <!-- Windows Server -->
    <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Windows Server.png?raw=true" height="50"/> </code>
 <!-- Azure Active Directory -->
@@ -111,12 +95,12 @@
 
 <p align="center">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png"> </code>
   <code> <img height="50" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png"> </code>
+ <!-- C# -->
+  <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+  <code> <img height="50" src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png"> </code>
   <code> <img height="50" src="https://shiftacademy.id/wp-content/uploads/2021/02/Scrum-Logo.png"> </code>
-  <code> <img height="50" src="https://th.bing.com/th/id/R.16768d04c3ad32788862171223903717?rik=CTDDKirgo4yZ7w&pid=ImgRaw&r=0"> </code>
 </p>
 
   <!--
