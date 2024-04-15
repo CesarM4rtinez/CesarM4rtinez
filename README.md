@@ -100,7 +100,6 @@
   <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png"> </code>
-  <code> <img height="50" src="https://shiftacademy.id/wp-content/uploads/2021/02/Scrum-Logo.png"> </code>
 </p>
 
   <!--
