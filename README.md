@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy César Martínez</h1>
-<h3 align="center">🧑🏻‍💻Desarrollador SQL | Data Engineer | Analista DBA | DBA SQL Server🧑🏻‍💻</h3>
+<h3 align="center">🧑🏻‍💻 Data Engineer | DBA SQL Server🧑🏻‍💻</h3>
 <h4 align="center">Soy estudiante de Ingeniería en Sistemas y Computación en la "Universidad Dr. Andrés Bello" de El Salvador 🇸🇻</h4>
 
 
