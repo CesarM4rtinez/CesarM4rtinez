@@ -100,11 +100,12 @@
   <code> <img height="50" src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png"> </code>
 </p>
 
+<!-- Estadísticas -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarm4rtinez" alt="ovi" /></a> </p>
 
-<p>&nbsp;<img align="left" margin-rigth= "9px" src="https://github-readme-stats.vercel.app/api?username=cesarm4rtinez&show_icons=true&locale=en" alt="ovi" /></p>
-<br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarm4rtinez&show_icons=true&locale=en&layout=compact" alt="ovi" /></p>
+<p><img align="left" margin-rigth= "9px" src="https://github-readme-stats.vercel.app/api?username=cesarm4rtinez&show_icons=true&locale=es" alt="ovi" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cesarm4rtinez&show_icons=true&locale=es&layout=compact" alt="ovi" /></p>
 
   <!--
   <code> <img height="50" src="https://1.bp.blogspot.com/-onFNEDSrEmU/YFE2XVY6AJI/AAAAAAAAGN0/GC92ERDkccIPjDI15dMI7tjVSpGOY4vlQCLcBGAsYHQ/s0/MongoDB-Logo.png"> </code>
