@@ -18,11 +18,11 @@
 
 ***Acerca de mí:***
 
-- 🌱 Actualmente soy Administrador de Bases de Datos.
+- 🌱 Especializado en la Administración de Bases de Datos con SQL Server.
 
 - 📫 Como contactarme **dbaservices.martinezcesar@gmail.com**
 
-- ⚡ Soy desarrollador en SQL Server y Oracle. Me especializo en la Administración de SQL Server.
+- ⚡ Soy desarrollador en SQL Server y Oracle. Con gustos por el desarrollo web con Next Js, Node Js, Astro y React Js.
 
 
 <br>
