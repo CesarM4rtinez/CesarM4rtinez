@@ -80,7 +80,7 @@
 
 <!-- Etiquetas de datos en el Perfil -->
 <p align="center">
-<img src="https://img.shields.io/badge/Edad-20-purple" />
+<img src="https://img.shields.io/badge/Edad-21-purple" />
   <img src="https://img.shields.io/badge/Enfoque-Data Engineering-purple" />
   <img src="https://img.shields.io/badge/Idiomas-English%20%26%20Spanish-purple" />
 </p>
