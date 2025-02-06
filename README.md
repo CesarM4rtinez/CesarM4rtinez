@@ -92,11 +92,11 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Mis herramientas de trabajo...***
 
 <p align="center">
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://logos-world.net/wp-content/uploads/2020/09/Oracle-Symbol.png"> </code>
- <!-- C# -->
-  <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/> </code> 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
+ <!-- Azure SQL -->
+   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true" height="50"/> </code>
+ <!-- WINDOWS SERVER -->
+  <code> <img height="50" src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Windows Server.png?raw=tru"> </code>
+ <!-- SQL SERVER -->
   <code> <img height="50" src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png"> </code>
 </p>
 
