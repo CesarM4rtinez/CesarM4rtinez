@@ -6,7 +6,7 @@
 <h4 align="center">Soy estudiante de Ingeniería en Sistemas y Computación en la "Universidad Dr. Andrés Bello" de El Salvador 🇸🇻</h4>
 
 
-<img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Banner%20Portada.png?raw=true" alt="ovi-pw" />
+<img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Banner_In.png?raw=true" alt="ovi-pw" />
 
 <br>
 
