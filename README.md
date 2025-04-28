@@ -132,6 +132,7 @@
     </button>
   
   <img width="12" />
+  <img width="12" />
   
   <a href="https://www.paypal.com/paypalme/comartinezsv" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
