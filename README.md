@@ -123,9 +123,12 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/DonacionesNIU.jpg?raw=true" width="452" height="640" alt="niu logo"  />
-  <a href="https://niuapp.io/payment-link/l/ED93CF56-044A-4217-9BC4-DF4616BA99AF" target="_blank">
-    
+  <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Donacion.jpg?raw=true" width="452" height="640" alt="niu logo" />
+  <br /><br />
+  <a href="https://niuapp.io/payment-link/l/ED93CF56-044A-4217-9BC4-DF4616BA99AF" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Enviar donación
+    </button>
   </a>
 </div>
 
