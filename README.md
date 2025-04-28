@@ -115,13 +115,11 @@
   <code> <img height="50" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png"> </code> 
   -->
 
-  ###
-
-###
+#
 
 <h2 align="left">Actividad</h2>
 
-###
+#
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cesarm4rtinez&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
