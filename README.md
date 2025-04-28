@@ -100,6 +100,8 @@
   <code> <img height="50" src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png"> </code>
 </p>
 
+#
+
 <!-- Estadísticas -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarm4rtinez" alt="ovi" /></a> </p>
 
