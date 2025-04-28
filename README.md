@@ -6,7 +6,7 @@
 <h4 align="center">Soy estudiante de Ingeniería en Sistemas y Computación en la "Universidad Dr. Andrés Bello" de El Salvador 🇸🇻</h4>
 
 <img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Banner_In.png?raw=true" alt="ovi-pw" />
-<h4 align="center">Brindo soluciones de Bases de datos y gestión de la Información.</h4>
+<h3 align="center">Brindo soluciones de Bases de datos y Gestión de la Información</h3>
 
 #
 
