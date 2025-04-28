@@ -42,65 +42,67 @@
 <br>
 <br>
 
-#
+<h2 align="left">Conocimientos de programación</h2>
 
-***Lenguajes y herramientas:***
+###
 
-<p align="center"> 
-<!-- C# -->
-   <code> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="50"/> </code>
-<!-- .NET -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/NET.png?raw=true" height="50"/> </code>
-<!-- SQL Server -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL%20Server.png?raw=true" height="60"/> </code>
-<!-- Azure SQL -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true" height="50"/> </code>
-<!-- AWS -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/AWS-Cloud.png?raw=true" height="50"/> </code>
-<!-- Oracle -->
-   <code> <img src="https://fbk.it/images/Oracle.png" height="50"/> </code>
-      
-<br>
-<!-- Arch Linux -->
-   <code> <img height="50" src="https://th.bing.com/th/id/R.16768d04c3ad32788862171223903717?rik=CTDDKirgo4yZ7w&pid=ImgRaw&r=0"> </code>
-<!-- Windows Server -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Windows Server.png?raw=true" height="50"/> </code>
-<!-- Azure Active Directory -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Active Directory.png?raw=true" height="50"/> </code>
-<!-- VMware -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/VMware.png?raw=true" height="50"/> </code>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="cs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dotnet logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="pr logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="ps logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" height="40" alt="cloudflare logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kali" height="40" alt="kali logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+</div>
 
-<br>
-<!-- Photoshop -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Photoshop.png?raw=true" height="50"/> </code>
-<!-- Premiere -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Premiere.png?raw=true" height="50"/> </code>
-   
+<h2 align="left"></h2>
 
-
-<!-- Etiquetas de datos en el Perfil -->
-<p align="center">
-<img src="https://img.shields.io/badge/Edad-21-purple" />
-  <img src="https://img.shields.io/badge/Enfoque-Data Engineering-purple" />
-  <img src="https://img.shields.io/badge/Idiomas-English%20%26%20Spanish-purple" />
-</p>
-
-<br>
-
----
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Mis herramientas de trabajo...***
-
-<p align="center">
- <!-- Azure SQL -->
-   <code> <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/SQL Server Icon - Azure.png?raw=true" height="50"/> </code>
- <!-- WINDOWS SERVER -->
-  <code> <img height="50" src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Windows Server.png?raw=tru"> </code>
- <!-- SQL SERVER -->
-  <code> <img height="50" src="https://clipart.info/images/ccovers/1499955337microsoft-sql-server-logo-png.png"> </code>
-</p>
-
-#
+###
 
 <!-- Estadísticas -->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cesarm4rtinez" alt="ovi" /></a> </p>
@@ -126,7 +128,6 @@
 <br>
 
 <h2 align="left">Actividad</h2>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cesarm4rtinez&radius=16&theme=github-dark-dimmed&area=true&order=5" height="300" alt="activity-graph graph"  />
