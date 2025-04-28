@@ -127,7 +127,12 @@
   <br /><br />
   <a href="https://niuapp.io/payment-link/l/ED93CF56-044A-4217-9BC4-DF4616BA99AF" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Enviar donación
+      Enviar donación directo a Cuenta
+    </button>
+  </a>
+  <a href="https://www.paypal.com/paypalme/comartinezsv" target="_blank" style="text-decoration: none;">
+    <button style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Enviar donación a PayPal
     </button>
   </a>
 </div>
