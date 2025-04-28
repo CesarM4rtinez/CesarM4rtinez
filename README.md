@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CesarM4rtinez&label=Vistas%20del%20Perfil&color=0e75b6&style=flat" alt="watching_count" /></p>
 
 <h1 align="center">Hola 👋, soy César Martínez</h1>
-<h3 align="center">🧑🏻‍💻 Data Engineer | DBA SQL Server🧑🏻‍💻</h3>
+<h3 align="center">DBA SQL Server🧑🏻‍💻 | Data Analyst🧑🏻‍💻 | Data Engineer🧑🏻‍💻</h3>
 <h4 align="center">Soy estudiante de Ingeniería en Sistemas y Computación en la "Universidad Dr. Andrés Bello" de El Salvador 🇸🇻</h4>
 
 <img align="center" src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Banner_In.png?raw=true" alt="ovi-pw" />
