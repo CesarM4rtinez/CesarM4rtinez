@@ -11,8 +11,6 @@
 <br>
 
 #
- 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <br>
 
@@ -24,22 +22,6 @@
 
 - ⚡ Soy desarrollador en SQL Server y Oracle. Con gustos por el desarrollo web con Next Js, Node Js, Astro y React Js.
 
-
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 <h2 align="left">Conocimientos de programación</h2>
