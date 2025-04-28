@@ -22,6 +22,7 @@
 
 - ⚡ Soy desarrollador en SQL Server y Oracle. Con gustos por el desarrollo web con Next Js, Node Js, Astro y React Js.
 
+
 <br>
 
 <h2 align="left">Conocimientos de programación</h2>
