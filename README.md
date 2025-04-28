@@ -125,16 +125,19 @@
 <div align="center">
   <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/Donacion.jpg?raw=true" width="452" height="640" alt="niu logo" />
   <br /><br />
+   
   <a href="https://niuapp.io/payment-link/l/ED93CF56-044A-4217-9BC4-DF4616BA99AF" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Enviar donación directo a Cuenta
+      Enviar directo a Cuenta
     </button>
-  </a>
+  <img width="12" />
+  <a></a>
   <a href="https://www.paypal.com/paypalme/comartinezsv" target="_blank" style="text-decoration: none;">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #007BFF; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Enviar donación a PayPal
+      Enviar a PayPal
     </button>
   </a>
+   
 </div>
 
 ###
