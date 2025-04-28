@@ -123,8 +123,9 @@
 ###
 
 <div align="center">
+  <img src="https://github.com/CesarM4rtinez/CesarM4rtinez/blob/main/DonacionesNIU.jpg?raw=true" width="452" height="640" alt="niu logo"  />
   <a href="https://niuapp.io/payment-link/l/ED93CF56-044A-4217-9BC4-DF4616BA99AF" target="_blank">
-    <img src="https://raw.githubusercontent.com/CesarM4rtinez/CesarM4rtinez/60d0ac43b8f79d6246497a5f978e144b0e9cb6f3/logo-main.svg" width="452" height="240" alt="niu logo"  />
+    
   </a>
 </div>
 
